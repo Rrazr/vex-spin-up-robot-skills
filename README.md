@@ -1,4 +1,4 @@
-# 78215A-Robot-Skills
+# Team 78215A VEX V5 Spin Up - Robot Skills
 
 This is the autonomous code used to run my team's VEX robot in the Skills Challenge. The robots main function is to intake and shoot into the goals as many disks as it can in 2 minutes. The image below shows the path that the robot takes as it executes the code.
 
